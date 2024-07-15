@@ -1,0 +1,8 @@
+{
+  "PessoaDTO": {
+    "nome": "João",
+    "idade": 33,
+    "data": "{{now format='yyyy-MM-dd HH:mm:ss'}}",
+    "sexo": "Masculino"
+  }
+}

@@ -1,0 +1,19 @@
+
+{
+  "request": {
+    "method": "GET",
+    "url": "/v2",
+    "headers": {
+      "Authorization": {
+        "matches": "Bearer .+"
+      }
+    }
+  },
+  "response": {
+    "status": 200,
+    "bodyFileName": "./api-v2-response/maria-response.json",
+    "headers": {
+      "Content-Type": "application/json"
+    }
+  }
+}
